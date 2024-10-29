@@ -1,1 +1,1 @@
-# Exerc-cio-01-JavaScript
+# Exercicio-01-JavaScript
